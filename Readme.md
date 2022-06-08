@@ -1,1 +1,1 @@
-This is my js practice file.
+This is my js practice repository.
