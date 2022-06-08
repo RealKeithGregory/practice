@@ -12,5 +12,4 @@ function updateLight(current) {
     } else {
       return "green"
     }
-   
    }
