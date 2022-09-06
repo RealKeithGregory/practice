@@ -11,5 +11,5 @@
 
 function isPalindrome(line) {
 
-    return line == line.toString().toLowerCase().split('').reverse().join('') ? true : false ;
+    return line == line.toString().toLowerCase().split('').reverse().join('') || line == line.toString().split('').reverse().join('')  ? true : false ;
   }
