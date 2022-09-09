@@ -7,7 +7,7 @@
 // i.e.
 
 // friend ["Ryan", "Kieran", "Mark"] `shouldBe` ["Ryan", "Mark"]
-// Note: keep the original order of the names in the output.
+// Note: keep the original order of the names in the output
 
 function friend(friends){
     const result = friends.filter(friend => friend.length === 4 )
