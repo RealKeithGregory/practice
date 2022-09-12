@@ -1,4 +1,4 @@
-//Write a function to split a string and convert it into an array of words.
+//Write a function to split a string and convert it into an array of words
 
 function stringToArray(string){
 
