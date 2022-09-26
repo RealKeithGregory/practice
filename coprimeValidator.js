@@ -15,7 +15,7 @@
 // Factors of 12: 1, 2, 3, 4, 6, 12
 // Factors of 39: 1, 3, 13, 39
 // Greatest shared factor: 3
-// Result: 12 and 39 are not coprimes
+// Result: 12 and 39 are not coprimes.
 
 function isCoprime(x, y) {
     const min = Math.min(x, y);
