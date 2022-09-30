@@ -16,6 +16,7 @@
 // Input: ["sheep", "sheep", "wolf"]
 // Output: "Pls go away and stop eating my sheep"
 
+
 function warnTheSheep(queue) {
     let sheepIndex = queue.length - queue.indexOf('wolf') - 1;
     if (sheepIndex === 0)
